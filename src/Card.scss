@@ -1,0 +1,105 @@
+@import "variables.scss";
+
+
+.Card{
+	position: relative;
+	font-family: 'Rubik', sans-serif;
+	background-color: $bg-color;
+	box-shadow: 1px -1px 5px -1px rgba(59,59,59,0.75);
+	border-radius: 10px;
+	margin: 10px 0;
+	img{
+		width:  100%;
+	}
+
+	.topWrapper{
+		background-color: #fff;
+		border-radius: 10px 10px 0 10px;
+		padding: 0 15px 15px;
+		position: relative;
+	}
+
+	.bgWrapper{
+		background: $blue;
+		border-radius: 10px 10px 0 0 
+	}
+
+	.nameWrapper{
+		font-size: 1.5rem;
+		line-height: 1.2;
+		font-weight: 500;
+		text-align: left;
+		margin-top: 20px;
+		margin-bottom: 5px;
+	}
+
+	.teachersWrapper{
+		color:  #808080;
+		font-size: 0.8rem;
+		line-height: 1.2;
+	}
+
+	.bottomWrapper{
+		display: flex;
+		justify-content: space-between;
+		align-items: stretch;
+		background-color: #fff;
+		border-radius: 10px 0 10px 10px;
+	}
+
+	.downloadBtn{
+		position: relative;
+		background-color: #123557;
+		border-radius: 0 10px 10px 10px;
+		padding: 1rem;
+		flex-basis: 2rem;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		a{
+			display: block;
+			width: 1.5625rem;
+		}
+
+		@media (min-width: $desktop-xl){
+			padding: 1.5625rem;
+		}
+		&::after{
+			content: "";
+			width: 20px;
+			height: 20px;
+			background-color: $blue;
+			position: absolute;
+			right: -10px;
+			bottom: 0;
+		}
+	}
+	.classNameWrapper{
+		position: relative;
+		z-index: 1;
+		text-align:  right;
+		flex:  1;
+		border-radius: 0 0 10px 10px;
+		background-color: #fff;
+		padding: 0 0.8625rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	.label{
+		font-size: 1.125rem;
+		line-height: 1.2;
+		color: #808080; 
+	}
+
+	.class{
+		color:  #941B0C;
+		font-size: 1.825rem;
+		line-height: 1.2;
+		font-weight: 500;
+		@media (min-width: $desktop-xl){
+			font-size: 2.6875rem;	
+		}
+	}
+}
