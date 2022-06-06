@@ -3,10 +3,10 @@ import React, { useState } from 'react';
 import preval from 'preval.macro'
 
 
-import './App.scss';
+import './scss/app.scss';
 import Cards from './Cards.js';
 import data from './data1.json';
-import './SearchInput.scss';
+import './scss/search_input.scss';
 import search from './images/search.svg'
 
 
