@@ -16,7 +16,7 @@ L'applicazione front-end è un semplice elenco di card filtrabili mediante un ca
 La struttura dati presente nella fixture json non è altro che un array di oggetti; ogni oggetto è fatto in questa maniera: 
 
 ```
-	{
+{
     "c": "1A",
     "name": "Diritto",
     "teachers": [
