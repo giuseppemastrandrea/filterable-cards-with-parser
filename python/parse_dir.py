@@ -16,7 +16,7 @@ links = [f"{a['href']}" for a in soup.select('table a')[5:]]
 informations = [ re.split(r'[-]\s*', l) for l in links ]
 
 obj_list = []
-out_file = open("../src/data1.json", "w")
+out_file = open("../src/fixtures/data.json", "w")
 
 for (i, v) in enumerate(informations):
 	obj = {}

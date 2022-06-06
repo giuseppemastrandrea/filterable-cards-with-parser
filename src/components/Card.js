@@ -1,6 +1,6 @@
-import logo     from './images/logotipo.png';
-import download from './images/download.svg';
-import './scss/card.scss'
+import logo     from '../images/logotipo.png';
+import download from '../images/download.svg';
+import '../scss/card.scss'
 
 
 function Card(props) {

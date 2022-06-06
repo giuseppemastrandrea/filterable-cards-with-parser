@@ -4,8 +4,8 @@ import preval from 'preval.macro'
 
 
 import './scss/app.scss';
-import Cards from './Cards.js';
-import data from './data1.json';
+import Cards from './components/Cards.js';
+import data from './fixtures/data.json';
 import './scss/search_input.scss';
 import search from './images/search.svg'
 
