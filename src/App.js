@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 
+import preval from 'preval.macro'
 
 
 import './App.scss';
@@ -20,7 +21,7 @@ function App() {
       teachers.filter(t => t.toLowerCase().includes(searchText.toLowerCase())).length > 0
   );
 
-  const lastUpdate = (new Date()).toLocaleString();
+  const lastUpdate = preval`module.exports = new Date().toLocaleString();`;
 
   return (
     <div className="App">

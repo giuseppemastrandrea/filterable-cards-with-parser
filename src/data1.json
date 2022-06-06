@@ -17,6 +17,14 @@
   },
   {
     "c": "1C",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/1C-Fisica-SCARCIGLIA.pdf"
+  },
+  {
+    "c": "1C",
     "name": "Scienze della Terra",
     "teachers": [
       "Magrone"
@@ -38,6 +46,23 @@
       "Musca"
     ],
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/1D-Fisica-Musca.pdf"
+  },
+  {
+    "c": "1E",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/1E-Fisica-SCARCIGLIA.pdf"
+  },
+  {
+    "c": "1E",
+    "name": "Tecnologie Informatiche",
+    "teachers": [
+      "De Gaetano",
+      "Curci"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/1E-Tecnologie%20Informatiche-De%20Gaetano-Curci.pdf"
   },
   {
     "c": "1G",
@@ -96,6 +121,22 @@
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/1I-CHIMICA%20E%20LABORATORIO-ELOUARDI.pdf"
   },
   {
+    "c": "1I",
+    "name": "Italiano",
+    "teachers": [
+      "Armiento"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/1I-Italiano-Armiento.pdf"
+  },
+  {
+    "c": "1I",
+    "name": "Storia",
+    "teachers": [
+      "Armiento"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/1I-Storia-Armiento.pdf"
+  },
+  {
     "c": "2A",
     "name": "Biologia",
     "teachers": [
@@ -120,12 +161,28 @@
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/2A-Diritto-Piccolo.pdf"
   },
   {
+    "c": "2A",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/2A-Fisica-SCARCIGLIA.pdf"
+  },
+  {
     "c": "2B",
     "name": "Diritto",
     "teachers": [
       "Piccolo"
     ],
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/2B-Diritto-Piccolo.pdf"
+  },
+  {
+    "c": "2B",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/2B-Fisica-SCARCIGLIA.pdf"
   },
   {
     "c": "2C",
@@ -144,12 +201,28 @@
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/2C-Chimica%20e%20Laboratorio-Magrone.pdf.pdf"
   },
   {
+    "c": "2C",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/2C-Fisica-SCARCIGLIA.pdf"
+  },
+  {
     "c": "2D",
     "name": "Biologia",
     "teachers": [
       "Magrone.pdf"
     ],
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/2D-Biologia-Magrone.pdf.pdf"
+  },
+  {
+    "c": "2E",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/2E-Fisica-SCARCIGLIA.pdf"
   },
   {
     "c": "2F",
@@ -251,6 +324,22 @@
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/3ITETA-STORIA-Ruberto.pdf"
   },
   {
+    "c": "3ITIAA",
+    "name": "SistemiEreti",
+    "teachers": [
+      "SacchettiArre"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/3ITIAA-SistemiEreti-SacchettiArre.pdf"
+  },
+  {
+    "c": "3ITIAC",
+    "name": "SistemiEreti",
+    "teachers": [
+      "SacchettiTandoi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/3ITIAC-SistemiEreti-SacchettiTandoi.pdf"
+  },
+  {
     "c": "4ITCAA",
     "name": "Italiano",
     "teachers": [
@@ -308,6 +397,32 @@
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/4ITETA-Sistemi%20automatici-De%20Scisciolo.Terzi.pdf"
   },
   {
+    "c": "4ITIAB",
+    "name": "Informatica",
+    "teachers": [
+      "De Gaetano",
+      "Tandoi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/4ITIAB-Informatica-De%20Gaetano-Tandoi.pdf"
+  },
+  {
+    "c": "4ITIAC",
+    "name": "Informatica",
+    "teachers": [
+      "De Gaetano",
+      "Curci"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/4ITIAC-Informatica-De%20Gaetano-Curci.pdf"
+  },
+  {
+    "c": "4ITIAC",
+    "name": "SistemiEreti",
+    "teachers": [
+      "SacchettiTandoi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/4ITIAC-SistemiEreti-SacchettiTandoi.pdf"
+  },
+  {
     "c": "5ITCAB",
     "name": "Gestione e Sicurezza nei Cantieri",
     "teachers": [
@@ -325,11 +440,52 @@
   },
   {
     "c": "5ITCM",
+    "name": "Storia",
+    "teachers": [
+      "Armiento"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/5ITCM-Storia-Armiento.pdf"
+  },
+  {
+    "c": "5ITCM",
     "name": "Tecnologiechimiche",
     "teachers": [
       "Adamo",
       "Fanelli"
     ],
     "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/5ITCM-Tecnologiechimiche-Adamo-Fanelli.pdf"
+  },
+  {
+    "c": "5ITET",
+    "name": "Storia",
+    "teachers": [
+      "Armiento"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/5ITET-Storia-Armiento.pdf"
+  },
+  {
+    "c": "5ITIAB",
+    "name": "Sistemi e Reti",
+    "teachers": [
+      "De Gaetano",
+      "Tandoi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/5ITIAB-Sistemi%20e%20Reti-De%20Gaetano-Tandoi.pdf"
+  },
+  {
+    "c": "5ITIAC",
+    "name": "SistemiEreti",
+    "teachers": [
+      "SacchettiTandoi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/5ITIAC-SistemiEreti-SacchettiTandoi.pdf"
+  },
+  {
+    "c": "5ITIAC",
+    "name": "TPSIT",
+    "teachers": [
+      "SacchettiArre"
+    ],
+    "href": "https://www.panettipitagora.edu.it/qs/documenti/programmi-21-22/5ITIAC-TPSIT-SacchettiArre.pdf"
   }
 ]
