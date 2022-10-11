@@ -39,3 +39,4 @@ TBD:
 - pubblicazione delle fonti (URL del figma)
 - EN version
 - Integrazione con Redux
+

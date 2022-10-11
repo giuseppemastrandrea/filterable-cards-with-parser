@@ -19,12 +19,16 @@ obj_list = []
 out_file = open("../src/fixtures/data.json", "w")
 
 for (i, v) in enumerate(informations):
-	obj = {}
-	obj['c'] = urllib.parse.unquote(v[0])
-	obj['name'] = urllib.parse.unquote(os.path.splitext(v[1])[0])
-	obj['teachers'] = [ urllib.parse.unquote(os.path.splitext(v)[0]) for v in v[2:] ]
-	obj['href'] = f"{FOLDER_URL}{links[i]}"
-	obj_list.append(obj)
+	try:
+		obj = {}
+		obj['c'] = urllib.parse.unquote(v[0])
+		obj['name'] = urllib.parse.unquote(os.path.splitext(v[1])[0])
+		obj['teachers'] = [ urllib.parse.unquote(os.path.splitext(v)[0]) for v in v[2:] ]
+		obj['href'] = f"{FOLDER_URL}{links[i]}"
+		obj_list.append(obj)
+	except Exception as e:
+		print(e)
+		print(v)
 
 json.dump(obj_list, out_file, indent=2)
 
