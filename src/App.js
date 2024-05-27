@@ -28,13 +28,22 @@ function App() {
       <div className="container">
         <div className="title">
           <h1>
-            Programmi Svolti a.s. 2021/2022
+            Programmi Svolti a.s. 2022/23
           </h1>
         </div>
         <div className="description">
           <p>
-            In questa pagina potrai trovare i programmi svolti per tutte le materie relative all'anno scolastico 2021/2022. 
+            In questa pagina potrai trovare i programmi svolti per tutte le materie relative all'anno scolastico 2022/2023. 
           </p>
+          <h2>
+            Utilizza il campo di testo per cercare il programma che ti interessa
+          </h2>
+          <p>Puoi cercare per:</p>
+          <ul>
+            <li><strong>Cognome</strong> del docente</li>
+            <li><strong>Nome</strong> della materia</li>
+            <li><strong>Denominazione</strong> della classe (es. <i>3ITETB</i>, <i>2G</i>, <i>4ITIAB</i>)</li>
+          </ul>
           <p>
             <u>N.B. La pagina &egrave; in continuo aggiornamento.</u>
             <br />

@@ -3,7 +3,7 @@
 
 .Card{
 	position: relative;
-	font-family: 'Rubik', sans-serif;
+	font-family: "Titillium Web",Geneva,Tahoma,sans-serif;
 	background-color: $bg-color;
 	box-shadow: 1px -1px 5px -1px rgba(59,59,59,0.75);
 	border-radius: 10px;
@@ -99,7 +99,7 @@
 		line-height: 1.2;
 		font-weight: 500;
 		@media (min-width: $desktop-xl){
-			font-size: 2.6875rem;	
+			font-size: 2.4875rem;	
 		}
 	}
 }
